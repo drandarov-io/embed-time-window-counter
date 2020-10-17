@@ -12,7 +12,7 @@
 ## Examples
 
 ### Before / After window
-![before_window](docs/before_after_window.png)
+![before_window](images/before_after_window.png)
 
 ### Inside window
-![inside_window](docs/inside_window.png)
+![inside_window](images/inside_window.png)
