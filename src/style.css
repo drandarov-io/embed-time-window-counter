@@ -1,0 +1,25 @@
+#widget_content {
+    text-align: center;
+    font-size: 50px;
+    margin: 5px;
+    font-family: Calibri, sans-serif;
+    line-height: 80px;
+    border-radius: 30px;
+    color: white;
+}
+
+.outside {
+    background-color: indianred;
+}
+
+.inside {
+    background-color: forestgreen;
+}
+
+div {
+    background-color: #fff;
+}
+
+body {
+    background-color: #fff;
+}
