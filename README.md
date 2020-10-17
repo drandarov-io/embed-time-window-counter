@@ -6,8 +6,7 @@
 - end_hour (e.g. 18)
 
 ## Demo
-
-- TODO 
+https://drandarov-io.github.io/embed-time-window-counter/docs/?start_hour=12&end_hour=18
 
 ## Examples
 
